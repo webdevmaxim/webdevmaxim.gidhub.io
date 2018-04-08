@@ -32,7 +32,8 @@ header{
     margin-top: 20px;
 }
 .header-button{
-    
+    display: inline-block;
+    text-decoration: none;
     border-radius: 50px;
     box-shadow: 10px 17px 34.4px 5.6px rgba(18, 61, 145, 0.83);
     background-color: #fff;
@@ -151,6 +152,7 @@ footer{
 }
 .footer-button{
 	display: inline-block;
+	text-decoration: none;
 	border:1px solid #fff;
 	background-color: transparent; /* обозначает прозрацчный цвет */
 	color: #fff;
